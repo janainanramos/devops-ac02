@@ -1,0 +1,4 @@
+A verificação ou teste é o processo de determinar se a saída de uma fase está de acordo com os requisitos especificados na fase anterior. Ou seja, o teste visa analisar se o software está de acordo com as especificações estabelecidas.
+
+As técnicas de verificação e validação são fundamentais para identificar se um software possui defeitos e está apto a ir para a produção.
+
