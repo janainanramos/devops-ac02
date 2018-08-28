@@ -1,0 +1,3 @@
+A TI deve disponibilizar para os demais departamentos estrutura física e software. Assim, coletar e analisar dados que indicam o uso dessa complexa estrutura passa a desempenhar um papel-chave para fornecer um serviço de qualidade para os departamentos da empresa e agentes externos.
+
+A validação do serviço que a TI fornece se dá por meio de métricas como tempo de resposta às requisições e quantidade de recursos alocados versus a demanda que seu uso impõe. Elas indicam se a estrutura será suficiente, e antecipar-se às necessidades geradas pelo uso dos recurso tecnológicos é muito importante para manter a TI em sintonia com a estratégia de negócios da empresa.
