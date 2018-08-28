@@ -1,0 +1,4 @@
+O Manual do usuario é um documento que ensina a operar um equipamento ,um objeto, um software ou uma ferramenta. 
+Muitas vezes o manual vem com imagens, para, não só ilustrá-lo, como ajudar na compreensão.
+
+Às vezes, o manual pode vir organizado em itens, ou passos; que geralmente são curtos e com poucos números.
